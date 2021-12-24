@@ -1,0 +1,13 @@
+---
+core:
+    num_workers: 100
+
+
+inventory:
+    plugin: nornir.plugins.inventory.simple.SimpleInventory
+    options:
+        host_file: "/etc/ansible//hosts.yaml"
+        group_file: "/etc/ansible/groups.yaml"
+        defaults_file: "/etc/ansible/defaults.yaml"
+
+...

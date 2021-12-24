@@ -1,0 +1,82 @@
+---
+
+
+R1:
+    hostname: RTR-1
+    platform: 'ios'
+    username: geordie
+    password: teabag22
+    groups:
+        - cisco_group
+
+
+R2:
+    hostname: RTR-2
+    platform: 'ios'
+    username: geordie
+    password: teabag22
+    groups:
+        - cisco_group
+
+
+R3:
+    hostname: RTR-3
+    platform: 'ios'
+    username: geordie
+    password: teabag22
+    groups:
+        - cisco_group
+
+
+R4:
+    hostname: RTR-4
+    platform: 'ios'
+    username: geordie
+    password: teabag22
+    groups:
+        - cisco_group
+
+
+RTR5:
+    hostname: HQ-RTR-01
+    platform: 'ios'
+    username: geordie
+    password: teabag22
+    groups:
+        - cisco_group
+
+
+SW01:
+    hostname: SW01
+    platform: 'ios'
+    username: geordie
+    password: teabag22
+    groups:
+        - cisco_group
+
+
+SW02:
+    hostname: SW02
+    platform: 'ios'
+    username: geordie
+    password: teabag22
+    groups:
+        - cisco_group
+
+
+SW03:
+    hostname: SW03
+    platform: 'ios'
+    username: geordie
+    password: teabag22
+    groups:
+        - cisco_group
+
+
+SW04:
+    hostname: SW04
+    platform: 'ios'
+    username: geordie
+    password: teabag22
+    groups:
+        - cisco_group

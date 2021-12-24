@@ -1,0 +1,1 @@
+Scrapli Golden uses Scrapli Python library to commit the golden image to flash and rollback if needed

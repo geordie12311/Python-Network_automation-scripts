@@ -1,0 +1,6 @@
+---
+
+cisco_group:
+    platform: 'ios'
+
+...
